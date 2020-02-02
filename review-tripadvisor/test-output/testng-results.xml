@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="295826" started-at="2020-02-02T23:44:48 IST" finished-at="2020-02-02T23:49:44 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="295826" started-at="2020-02-02T23:44:48 IST" finished-at="2020-02-02T23:49:44 IST">
+      <class name="scripts.HotelReviewTest">
+        <test-method status="PASS" signature="GenerateExtReport()[pri:0, instance:scripts.HotelReviewTest@64729b1e]" name="GenerateExtReport" is-config="true" duration-ms="3675" started-at="2020-02-02T23:44:45 IST" finished-at="2020-02-02T23:44:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GenerateExtReport -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:scripts.HotelReviewTest@64729b1e]" name="launchBrowser" is-config="true" duration-ms="30677" started-at="2020-02-02T23:44:48 IST" finished-at="2020-02-02T23:45:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="reviewTest()[pri:0, instance:scripts.HotelReviewTest@64729b1e]" name="reviewTest" duration-ms="262881" started-at="2020-02-02T23:45:19 IST" finished-at="2020-02-02T23:49:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reviewTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:scripts.HotelReviewTest@64729b1e]" name="closeBrowser" is-config="true" duration-ms="1796" started-at="2020-02-02T23:49:42 IST" finished-at="2020-02-02T23:49:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeReport()[pri:0, instance:scripts.HotelReviewTest@64729b1e]" name="closeReport" is-config="true" duration-ms="7407" started-at="2020-02-02T23:49:48 IST" finished-at="2020-02-02T23:49:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+      </class> <!-- scripts.HotelReviewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
